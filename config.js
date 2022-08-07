@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Robbie',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -61,13 +61,13 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://live.com',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Trello',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://trello.com',
 		},
 		{
 			id: '4',
@@ -77,13 +77,13 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Unraid',
+			icon: 'unraid',
+			link: 'https://unraid.danktank.xyz',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Torrents',
 			icon: 'youtube',
 			link: 'https://odysee.com/',
 		},
