@@ -26,14 +26,14 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: '9a385ef0cc9ef1e8f6bd5c6b0d9da75f', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '-27.4190',
+	defaultLongitude: '153.0254',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Trello',
-			icon: 'trello',
-			link: 'https://trello.com',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'https://youtube.com',
 		},
 		{
 			id: '4',
@@ -78,14 +78,14 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Unraid',
-			icon: 'unraid',
+			icon: 'server',
 			link: 'https://unraid.danktank.xyz',
 		},
 		{
 			id: '6',
 			name: 'Torrents',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			icon: 'network',
+			link: 'https://torrents.danktank.xyz',
 		},
 	],
 
